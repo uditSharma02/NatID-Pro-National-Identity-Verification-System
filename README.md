@@ -102,7 +102,7 @@ java NationalIDApp
 ## Screenshots
 * ![image alt](https://github.com/uditSharma02/NatID-Pro-National-Identity-Verification-System/blob/40d69ddcbd5e39ccac3ad3c0f3aad42311c6c253/Screebshots/Screenshot%202025-11-25%20172054.png)
 * ![image alt](https://github.com/uditSharma02/NatID-Pro-National-Identity-Verification-System/blob/40d69ddcbd5e39ccac3ad3c0f3aad42311c6c253/Screebshots/Screenshot%202025-11-25%20172229.png)
-* ![image alt](https://github.com/udayraj-rgb/CivisID-National-ID-Registry-System-24BCE11159/blob/c3a93522b17df42dfeeabab30e737bdb6c4a5395/Screenshots/Screenshot%202025-11-24%20163629.png)
+* ![image alt](https://github.com/uditSharma02/NatID-Pro-National-Identity-Verification-System/blob/bf51a70bf3ecf82bcdb5e125c4a0169bf22c588d/Screebshots/Screenshot%202025-11-25%20172245.png)
 * ![image alt](https://github.com/udayraj-rgb/CivisID-National-ID-Registry-System-24BCE11159/blob/c3a93522b17df42dfeeabab30e737bdb6c4a5395/Screenshots/Screenshot%202025-11-24%20164224.png)
 ##  Future Enhancements
 * GUI: JavaFX/Swing interface for a modern desktop experience.
