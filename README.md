@@ -81,7 +81,7 @@ The system captures **15+ essential data points**:
 ## ⚙️ How to Run
 ```bash
 # Clone the Repository
-https://github.com/udayraj-rgb/CivisID-National-ID-Registry-System-24BCE11159.git
+https://github.com/uditSharma02/NatID-Pro-National-Identity-Verification-System
 
 # Compile
 javac *.java
