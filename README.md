@@ -104,7 +104,7 @@ java NationalIDApp
 * ![image alt](https://github.com/uditSharma02/NatID-Pro-National-Identity-Verification-System/blob/40d69ddcbd5e39ccac3ad3c0f3aad42311c6c253/Screebshots/Screenshot%202025-11-25%20172229.png)
 * ![image alt](https://github.com/uditSharma02/NatID-Pro-National-Identity-Verification-System/blob/bf51a70bf3ecf82bcdb5e125c4a0169bf22c588d/Screebshots/Screenshot%202025-11-25%20172245.png)
 * ![image alt](https://github.com/uditSharma02/NatID-Pro-National-Identity-Verification-System/blob/471c9f70aa814e954c693a356494a34f78dc23c6/Screebshots/Screenshot%202025-11-25%20172312.png)
-* * ![image alt](https://github.com/uditSharma02/NatID-Pro-National-Identity-Verification-System/blob/bf51a70bf3ecf82bcdb5e125c4a0169bf22c588d/Screebshots/Screenshot%202025-11-25%20172245.png)
+* * ![image alt](https://github.com/uditSharma02/NatID-Pro-National-Identity-Verification-System/blob/5b76e6748c6d9dfda2bc57631d6e1696b133f81f/Screebshots/Screenshot%202025-11-25%20172327.png)
 * ![image alt](https://github.com/uditSharma02/NatID-Pro-National-Identity-Verification-System/blob/471c9f70aa814e954c693a356494a34f78dc23c6/Screebshots/Screenshot%202025-11-25%20172312.png)
 ##  Future Enhancements
 * GUI: JavaFX/Swing interface for a modern desktop experience.
